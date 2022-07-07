@@ -1,0 +1,204 @@
+.firsr-block {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(donation8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 80vh;
+    margin: 0 -8px;
+}
+
+.second-block,
+.third-block {
+    width: 100%;
+    height: 80vh;
+}
+
+.block {
+    display: block;
+    padding: 124px 232px;
+}
+
+.last {
+    display: block;
+    padding: 160px 260px 0px 260px;
+}
+
+.first {
+    font-size: 4rem;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: -8px;
+}
+
+.sec {
+    font-size: 3rem;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: -8px;
+}
+
+.font {
+    color: black;
+    padding: 20px 50px;
+    margin: 0 0;
+
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.button {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+
+}
+
+.button1:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+.button2 {
+    background-color: #f44336;
+    color: black;
+}
+
+.button2:hover {
+    background-color: white;
+    color: black;
+}
+
+.button3 {
+    background-color: white;
+    color: black;
+    ;
+}
+
+.button3:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    ;
+}
+
+.button4:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+.button5 {
+    background-color: white;
+    color: black;
+}
+
+.button5:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+form {
+    margin: 5px 270px;
+}
+
+form input {
+    padding: 12px 90px;
+}
+
+.block-inline {
+    display: flex;
+    padding: 10px 0px;
+}
+
+.one-third {
+    width: 33%;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    box-shadow: 10px 10px 10x gray;
+}
+
+.font-family {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.block {
+    display: block;
+    padding: 170px 206px;
+}
+
+.cell {
+    line-height: 24px;
+}
+
+.one-third {
+    width: 30%;
+    background-color: aquamarine;
+    margin: 0px 10px;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.sec-third {
+    width: 30%;
+    background-color: rgb(218, 134, 162);
+    margin: 0px 10px;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.last-third {
+    width: 30%;
+    background-color: rgb(204, 161, 80);
+    margin: 0px 10px;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.padding {
+    padding-left: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    height: 150px;
+    background-color: rgb(27, 27, 75);
+    text-align: center;
+}
